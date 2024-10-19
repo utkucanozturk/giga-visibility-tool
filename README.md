@@ -1,4 +1,4 @@
-# Visibility Analysis Tool Documentation
+# Visibility Analysis Tool
 
 This tool is developed to perform visibility analysis for a given school dataset and tower locations. [Shuttle Radar Topography Mission (SRTM)](https://www2.jpl.nasa.gov/srtm/) digital elevation model of NASA used to generate elevation profiles between school-tower pairs.
 
