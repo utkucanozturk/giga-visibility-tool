@@ -1,0 +1,39 @@
+cookie:
+  expiry_days: 30
+  key: "Giga2022"
+  name: giga_vis
+credentials:
+  usernames:
+    utkucanozturk:
+      email: utku.ozturk@itu.int
+      failed_login_attempts: 0 # Will be managed automatically
+      first_name: Utku Can
+      last_name: Ozturk
+      logged_in: False # Will be managed automatically
+      password: '$2b$12$BaumnBcsqanFWP8bk7/IvOGENxnO5gsmjGasaQULM4P/ba5L1IQfu'
+      roles:
+      - admin
+      - editor
+      - viewer
+    oguzhan.er:
+      email: oguzhan.er@itu.int
+      failed_login_attempts: 0 # Will be managed automatically
+      first_name: Oguzhan
+      last_name: Er
+      logged_in: False # Will be managed automatically
+      password: '$2b$12$BaumnBcsqanFWP8bk7/IvOGENxnO5gsmjGasaQULM4P/ba5L1IQfu'
+      roles: # Optional
+      - viewer
+    
+    ihar.shchetko:
+      email: ihar.shchetko@itu.int
+      failed_login_attempts: 0 # Will be managed automatically
+      first_name: Ihar 
+      last_name: Shchetko
+      logged_in: False # Will be managed automatically
+      password: '$2b$12$BaumnBcsqanFWP8bk7/IvOGENxnO5gsmjGasaQULM4P/ba5L1IQfu'
+      roles: # Optional
+      - viewer
+pre-authorized:
+  emails:
+  - utkucanozturk@gmail.com
